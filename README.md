@@ -16,8 +16,7 @@ If you're interested in a deeper dive into my primary work or more polished proj
 
 ## 🚀 Connect With Me
 
-- 💬 [Twitter](https://twitter.com/your-twitter)  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📚 [My Website](https://www.yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-panchal-connect/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevPanchal2005) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevPanchal2005) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DevPanchal2005/)
+
 
 Thanks for stopping by, and feel free to reach out if you’d like to chat about languages, tech, or cool projects! 🤩

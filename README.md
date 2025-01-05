@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Alternate GitHub Account 🌟
+# 🌟 Welcome to Dev's Alternate GitHub Account 🌟
 
 Hey there! 👋 This is my alternate GitHub account where I jot down notes, experiments, and insights from the languages I’m learning and other interesting stuff. 🚀
 
